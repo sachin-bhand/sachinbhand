@@ -86,10 +86,7 @@
 ## 🚧 Projects 
 
 🔥 Real-world DevOps projects will include:
-- End-to-end CI/CD pipelines  
-- Kubernetes deployments (EKS)  
-- Terraform infrastructure automation  
-- Production-grade architectures  
+Scalable-Container-Platform-on-AWS-ECS-Terraform-
 
 ---
 
