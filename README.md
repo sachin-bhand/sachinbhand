@@ -20,7 +20,7 @@
 
 ## 🚀 About Me
 
-💻 DevOps Engineer with **2+ years of hands-on experience** in building, automating, and maintaining scalable cloud systems.
+💻 DevOps Engineer with **2.5+ years of hands-on experience** in building, automating, and maintaining scalable cloud systems.
 
 🔥 I turn complex infrastructure into **automated, reliable, and production-ready systems**.
 
